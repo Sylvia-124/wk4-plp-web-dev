@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    padding: 0;
+}
+header{
+    background-color: blueviolet;
+    padding: 25px;
+}
+section{
+    padding: 25px;
+    margin-bottom: 25px;
+}
+#Intro {
+    background-color: aqua;
+    
+}
+#Skills ol{
+    padding: 0;
+    list-style-type: none;
+    margin: 5px;
+
+}
+#Contacts p, a {
+    margin-bottom: 5px;
+}
+#Contacts{
+    background-color: blue;
+    
+}
+@media (max-width: 800px){
+    selection {
+        margin-bottom: 10px;
+    }
+}
+@media (max-width: 450px) {
+    h1, h2 {
+        text-align: center;
+    }
+}
+ h1{
+    color: goldenrod;
+}
+h2{
+    color: green;
+}
+ol li{
+    margin: 7px;
+}
+
+
+
+
+
+
+
+
